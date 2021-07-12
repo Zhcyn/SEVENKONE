@@ -1,0 +1,2 @@
+# SEVENKONE
+iOS app to track water intake, built with SwiftUI. We have performed more detailed processing and optimization on the simple interface to make the application look more dynamic and easy to accept. The current project is still under development, and the current stage is mainly to test the integrity of the system and the continuity of the interface. If you encounter problems during the test, please contact me
